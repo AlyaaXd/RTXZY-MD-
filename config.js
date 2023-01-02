@@ -3,28 +3,28 @@ Untuk gambar background menu ada - di plugins menu
 untuk lainya saran jangan di ubah bre nanti eror*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['6289505165400']  
+global.mods = ['6289505165400'] 
+global.prems = ['6289505165400']
 /*Nomor Owner & payment*/
-global.nameowner = 'BOTCAHX'
-global.numberowner = '6281395861695' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
+global.nameowner = 'Daunn'
+global.numberowner = '6289505165400' 
+global.dana = '6286730903853'
+global.pulsa = '6286730903853'
+global.gopay = '6286730903853'
 /*Nama Bot & Grouplink*/
-global.namebot = 'RTXZY-MD'
+global.namebot = 'Daunn'
 global.gc = 'https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0'
-global.web = 'https://github.com/BOTCAHX'
+global.web = 'https://github.com/AlyaaXd'
 global.instagram = 'https://instagram.com/prm2.0'
 /*global wm*/
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
-global.wm = '© R-TXZY-MD'
+global.wm = '© Daunn'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
-global.wm4 = '© BOT RTXZY'
+global.wm2 = '⫹⫺ Daunn'
+global.wm3 = '© AlyaaXd'
+global.wm4 = '© AlyaaXd'
 global.fla = 'https://api.tiodevhost.my.id/api/textpro/glitch?text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -32,7 +32,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nDaunn'
 /*Rest api setting*/
 global.APIs = { // API Prefix
   // name: 'https://website'
